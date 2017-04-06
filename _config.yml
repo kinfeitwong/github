@@ -1,5 +1,5 @@
 theme: jekyll-theme-time-machine
 deploy:
   type: git
-  repo: git@github.com:gdutxiaoxu/gdutxiaoxu.github.io.git
+  repo: git@github.com:https://kinfeitwong.github.io/myway/
   branch: master
