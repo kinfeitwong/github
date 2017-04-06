@@ -1,1 +1,5 @@
 theme: jekyll-theme-time-machine
+deploy:
+  type: git
+  repo: git@github.com:gdutxiaoxu/gdutxiaoxu.github.io.git
+  branch: master
